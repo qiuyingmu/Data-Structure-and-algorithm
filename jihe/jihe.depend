@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646883255 source:d:\code\caogao\jihe\main.c
+	<stdio.h>
+	<stdlib.h>
+

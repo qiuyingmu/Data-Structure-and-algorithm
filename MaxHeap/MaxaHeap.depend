@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646743713 source:d:\code\caogao\maxaheap\main.c
+	<stdio.h>
+	<stdlib.h>
+
