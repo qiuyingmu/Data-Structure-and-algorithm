@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647402504 source:d:\code\caogao\completebinarysearchtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
