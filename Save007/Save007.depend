@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648028534 source:d:\code\data_structure_and_algorithm\save007\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
