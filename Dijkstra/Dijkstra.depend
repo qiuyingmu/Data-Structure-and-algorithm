@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649559699 source:d:\code\data_structure_and_algorithm\test\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+
