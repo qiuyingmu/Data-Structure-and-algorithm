@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649853628 source:d:\code\data_structure_and_algorithm\test\prim\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1650800153 source:c:\zhuqing\data_structure_and_algorithm\test\prim\main.c
+	<stdio.h>
+	<stdlib.h>
+
